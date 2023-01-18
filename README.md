@@ -7,7 +7,7 @@
 
 About me:
 - 🔭 I like to learn new ones and apply my knowledge in practice
-- 🌱 I’m currently learning React Native, NodeJS
+- 🌱 I’m currently learning React Native, TypeScript and Node.js
 - 📫 How to reach me: viktoriia.ostrojinskaya@gmail.com
 - ⚡ Fun fact: Never give up! Keep on studying 📚 
 ___
